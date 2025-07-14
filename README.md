@@ -15,6 +15,7 @@ Abstraction using Python's ABC module (Department, Cardiology)
 Clean and modular code structure for easy understanding and future enhancements
 
 🧱 Class Breakdown
+
 Person: Base class with common attributes like name and age.
 
 Patient: Inherits Person and adds disease info.
